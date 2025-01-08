@@ -29,7 +29,4 @@ There are a variety of method for keeping the deployed state Kubernetes manifest
 
 A full GitOps example (using our configurations from `12-deploying-to-multiple-environments`) with kluctl is implemented in `./kluctl-gitops`.
 
-The other two popular GitOps tools are:
 
-- ArgoCD (https://argo-cd.readthedocs.io/en/stable)
-- FluxCD (https://fluxcd.io/)
