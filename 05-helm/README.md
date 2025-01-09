@@ -6,7 +6,6 @@ It provides a way to assemble many kubernetes resources and uses go's templating
 
 ![helm-diagram.png](readme-assets/helm-diagram.png)
 
-The fact that it is the most popular does not mean it is the only (or even the best) way to package kubernetes applications. In `12-deploying-to-multiple-environments` I will cover additional methods, but Helm is common enough that it is worth covering here.
 
 ## 3rd Party Example
 
